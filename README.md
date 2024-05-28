@@ -9,15 +9,14 @@
 </picture>
 </p>
 
-### Softwares:
+## Softwares:
 <picture>
   <img src="https://skillicons.dev/icons?i=vim,pycharm,clion,webstorm,matlab,ubuntu,discord,notion" /> <br /><br />
 </picture>
 </p>
 
----
+
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ugc6bz27rrzb1hjefv2yndfj4)
 <br/>
----
