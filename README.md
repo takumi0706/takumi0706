@@ -9,6 +9,7 @@
 </picture>
 </p>
 
+### Softwares:
 <picture>
   <img src="https://skillicons.dev/icons?i=vim,pychar,clion,webstorm,matlab,ubuntu,discord,notion" /> <br /><br />
 </picture>
