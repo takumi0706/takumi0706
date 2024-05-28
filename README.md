@@ -7,11 +7,11 @@
 <picture>
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
+ <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/takumi0706/takumi0706/output-3d-contrib/day.svg" />
 </picture>
 
 <picture>
-  <img src="https://skillicons.dev/icons?i=c,java,python,r,sqlite,mysql,git,github,linux,md,vim,pycharm,idea,clion,webstrom,ubuntu,discord" /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=c,java,python,r,sqlite,mysql,git,github,linux,md,vim,pycharm,idea,clion,webstorm,matlab,ubuntu,discord,notion" /> <br /><br />
 </picture>
 </p>
 
