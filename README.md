@@ -1,5 +1,5 @@
-# 💫About Me :
-Hello! My name is Takumi, and I am a third-year student at University's School of Science and Engineering, majoring in Electronic Information and Communication. I have a strong passion for coding and problem-solving, and I am currently focusing on mastering SQL.
+# 💫About Me
+Hello! My name is Takumi, and I am a third-year student at Kanazawa University's School of Science and Engineering, majoring in Electronic Information and Communication. I have a strong passion for coding and problem-solving, and I am currently focusing on mastering Docker.
 
 ### Skills and Experience
 
@@ -7,12 +7,12 @@ Hello! My name is Takumi, and I am a third-year student at University's School o
 - **Development Tools**: IntelliJ, GitHub
 - **Projects**:
   - **Restaurant Reservation Management System**: Developed a comprehensive system that manages reservations, cancellations, and adjustments. [GitHub Repository](https://github.com/takumi0706/Reserved_Restaurant)
-  - **WeatherApp_Version_PerfectGUI**: A weather application with a polished GUI, developed over two weeks. [GitHub Repository](https://github.com/takumi0706/WeatherApp_Version_PerfectGUI)
+  - **Travel Planner App**: Currently developing an app using Spring Boot that provides recommendations for meals, accommodations, tourist spots, and scheduling features.
 
 ### Interests
 
 - **Hobbies**: Golf, running, snowboarding
-- **Current Learning Focus**: Team development practices, backend development with Node.js and Vue.js.
+- **Current Learning Focus**: Docker, backend development with SpringBoot
 
 ### Contact
 
