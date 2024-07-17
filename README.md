@@ -25,13 +25,13 @@ Please feel free to contact me through GitHub.
 # 💻Tech Stack
 ## Languages:
 <picture>
-  <img src="https://skillicons.dev/icons?i=c,java,python,r,md,html,css,jupyter notebook," /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=c,java,python,r,md,html,css,jupyter notebook,maven,spring" /> <br /><br />
 </picture>
 </p>
 
 ## Softwares:
 <picture>
-  <img src="https://skillicons.dev/icons?i=vim,pycharm,clion,webstorm,matlab,linux,ubuntu,discord,notion,git,github,docker,miro,figma" /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=vim,pycharm,clion,webstorm,matlab,linux,ubuntu,discord,notion,git,github,docker,miro,figma,mysql,sqlite" /> <br /><br />
 </picture>
 </p>
 
