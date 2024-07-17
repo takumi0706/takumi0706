@@ -1,36 +1,37 @@
-# 💫About Me
-Hello! My name is Takumi, and I am a third-year student at Kanazawa University's School of Science and Engineering, majoring in Electronic Information and Communication. I have a strong passion for coding and problem-solving, and I am currently focusing on mastering Docker.
+# 💫About me
+Hello! I am a 3rd year student at Kanazawa University, Graduate School of Science and Engineering, Department of Electronics, Information and Communication. I have a strong passion for coding and problem solving and am currently focusing on learning Docker.
 
-### Skills and Experience
+### Skills/Experience.
 
-- **Programming Languages**: Java (favorite and strongest language)
-- **Development Tools**: IntelliJ, GitHub
+- **Programming Language**: Java (my favorite and strongest language)
+- **Development Tools Development Tools**: IntelliJ, GitHub
 - **Projects**:
-  - **Restaurant Reservation Management System**: Developed a comprehensive system that manages reservations, cancellations, and adjustments. [GitHub Repository](https://github.com/takumi0706/Reserved_Restaurant)
-  - **Travel Planner App**: Currently developing an app using Spring Boot that provides recommendations for meals, accommodations, tourist spots, and scheduling features.
+  - **Travel Planner Application**: Using Spring Boot, developed an application that provides recommendations on dining, accommodations, tourist spots, and scheduling functions. Also under redevelopment in Docker environment.
+  - **Chat-style calendar management app**： Currently planning to create a calendar management app in a conversational style. Also, it is in the requirement definition stage.
 
-### Interests
+### Hobbies
 
-- **Hobbies**: Golf, running, snowboarding
-- **Current Learning Focus**: Docker, backend development with SpringBoot
+- Hobbies Golf, running, snowboarding
+- Current study focus Back-end development using Docker and SpringBoot
 
 ### Contact
 
-Feel free to reach out to me through GitHub or connect with me for potential collaborations and learning opportunities.
+Please feel free to contact me through GitHub.
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_u.u_i) 
 
 # 💻Tech Stack
-## Languages and Tools:
+## Languages:
 <picture>
-  <img src="https://skillicons.dev/icons?i=c,java,python,r,sqlite,mysql,git,github,linux,md" /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=c,java,python,r,md,html,css,jupyter notebook," /> <br /><br />
 </picture>
 </p>
 
 ## Softwares:
 <picture>
-  <img src="https://skillicons.dev/icons?i=vim,pycharm,clion,webstorm,matlab,ubuntu,discord,notion" /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=vim,pycharm,clion,webstorm,matlab,linux,ubuntu,discord,notion,git,github," /> <br /><br />
 </picture>
 </p>
 
