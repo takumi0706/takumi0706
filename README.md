@@ -31,7 +31,7 @@ Please feel free to contact me through GitHub.
 
 ## Softwares:
 <picture>
-  <img src="https://skillicons.dev/icons?i=vim,pycharm,clion,webstorm,matlab,linux,ubuntu,discord,notion,git,github," /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=vim,pycharm,clion,webstorm,matlab,linux,ubuntu,discord,notion,git,github,docker,miro,figma" /> <br /><br />
 </picture>
 </p>
 
