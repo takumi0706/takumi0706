@@ -25,7 +25,7 @@ Please feel free to contact me through GitHub.
 # 💻Tech Stack
 ## Languages:
 <picture>
-  <img src="https://skillicons.dev/icons?i=c,java,python,r,md,html,css,maven,spring" /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=c,java,python,r,md,javascript,typescript,html,css,maven,spring" /> <br /><br />
 </picture>
 </p>
 
