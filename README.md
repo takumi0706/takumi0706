@@ -1,19 +1,50 @@
 # 💫About me
-Hello! I am a 3rd year student at Kanazawa University, Graduate School of Science and Engineering, Department of Electronics, Information and Communication. I have a strong passion for coding and problem solving and am currently focusing on learning Docker.
-
-### Skills/Experience.
-
-- **Programming Language**: Java (my favorite and strongest language)
-- **Development Tools Development Tools**: IntelliJ, GitHub
-- **Projects**:
-  - **Travel Planner Application**: Using Spring Boot, developed an application that provides recommendations on dining, accommodations, tourist spots, and scheduling functions. Also under redevelopment in Docker environment.
-  - **Chat-style calendar management app**： Currently planning to create a calendar management app in a conversational style. Also, it is in the requirement definition stage.
-
-### Hobbies
-
-- Hobbies Golf, running, snowboarding
-- Current study focus Back-end development using Docker and SpringBoot
-
+{</br>
+  "name": "Takumi Oyamada",</br>
+</br>
+  "title": "Full Stack Web Developer",</br>
+</br>
+  "location": "Kanazawa, Ishikawa, Japan",</br>
+  </br>
+  "summary": "I am a backend-focused web developer, currently deepening my knowledge in server-side development and related technologies. </br>
+  My goal is to build efficient, scalable, and secure backend systems that align with my guiding principle of 'altruism'—creating solutions that bring value to others. </br>
+  I am dedicated to continuous learning and improving my expertise in backend development while also exploring the surrounding technologies that enhance the overall system architecture."</br>
+</br>
+  "skills": {</br>
+    "front_end": ["Next.js(TS)", "React", "HTML", "CSS", "TypeScript"],</br>
+    </br>
+    "back_end": ["Spring Boot(Java)", "Next.js(TS)", "Python", "GO(tentative)"],</br>
+    </br>
+    "devops": ["Docker", "AWS(tentative)", "Git", Terraform(tentative)],</br>
+    </br>
+    "other_tools": ["Figma", "Miro"]</br>
+  },</br>
+  "education": {</br>
+    "university": "Kanazawa University",</br>
+    </br>
+    "degree": "Bachelor in Electronic Information and Communication",</br>
+    </br>
+    "graduation_year": "Expected 2026"</br>
+  },</br>
+  "certifications": [
+    {</br>
+      "name": "Yumemi Passport",</br>
+      </br>
+      "issued_by": "Yumemi",</br>
+      </br>
+      "date": "September 2024"</br>
+    },
+  ],</br>
+  "hobbies": ["Mountain biking", "Golf", "Snowboarding", "Photography"],</br>
+  </br>
+  "contact_info": {</br>
+    "email": "ganndamu0706@gmail.com",</br>
+    </br>
+    "github": "https://github.com/takumi0706",</br>
+    </br>
+    "portfolio": "https://takumi0706.simple.ink/"</br>
+  }</br>
+}</br>
 ### Contact
 
 Please feel free to contact me through GitHub.
