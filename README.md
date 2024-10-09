@@ -2,7 +2,7 @@
 {</br>
   "name": "Takumi Oyamada",</br>
 </br>
-  "title": "Full Stack Web Developer",</br>
+  "title": "Back End Web Developer",</br>
 </br>
   "location": "Kanazawa, Ishikawa, Japan",</br>
   </br>
