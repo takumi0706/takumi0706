@@ -4,14 +4,6 @@ name: "Takumi Oyamada"
 
 title: "Back End Web Developer"
 
-location: "Kanazawa, Ishikawa, Japan"
-
-summary:
-
-  I am a backend-focused web developer, currently deepening my knowledge in server-side development and related technologies.
-  My goal is to build efficient, scalable, and secure backend systems that align with my guiding principle of 'altruism'—creating solutions that bring value to others.
-  I am dedicated to continuous learning and improving my expertise in backend development while also exploring the surrounding technologies that enhance the overall system architecture.
-
 skills:
 
   front_end:
@@ -42,21 +34,6 @@ education:
   university: "Kanazawa University"
 
   degree: "Bachelor in Electronic Information and Communication"
-  
-  graduation_year: "Expected 2026"
-
-certifications:
-
-  - name: "Yumemi Passport"
-    issued_by: "Yumemi"
-    date: "September 2024"
-
-hobbies:
-
-- "Mountain biking"
-- "Golf"
-- "Snowboarding"
-- "Photography"
 
 contact_info:
 
