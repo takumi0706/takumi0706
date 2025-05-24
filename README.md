@@ -41,7 +41,7 @@ contact_info:
   
   github: "https://github.com/takumi0706"
   
-  ortfolio: "https://takumi0706.simple.ink/"
+  ortfolio: "https://takumi0706.thesimple.ink/"
 
 ### Contact
 
