@@ -14,9 +14,9 @@ skills:
   - "TypeScript"
 
   back_end:
-  - "Spring Boot(Java)"
+  - "Spring Boot"
   - "Next.js(TS)"
-  - "Python"
+  - "Node.js(TS)"
   - "GO(tentative)"
 
   devops:
@@ -41,7 +41,7 @@ contact_info:
   
   github: "https://github.com/takumi0706"
   
-  ortfolio: "https://takumi0706.thesimple.ink/"
+  portfolio: "https://takumi0706.thesimple.ink/"
 
 ### Contact
 
