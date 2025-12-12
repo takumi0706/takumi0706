@@ -9,9 +9,6 @@ skills:
   front_end:
   - "Next.js(TS)"
   - "React"
-  - "HTML"
-  - "CSS"
-  - "TypeScript"
 
   back_end:
   - "Spring Boot"
