@@ -1,4 +1,4 @@
-# Hi, Forks 👋
+# Hi, Folks 👋
 
 Backend / Infrastructure Engineer  
 Kanazawa University (ECE)
