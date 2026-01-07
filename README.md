@@ -1,4 +1,4 @@
-# Hi, Folks 👋
+# Hi, folks 👋
 
 Backend / Infrastructure Engineer  
 Kanazawa University (ECE)
